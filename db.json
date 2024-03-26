@@ -1,8 +1,7 @@
 {
-    "usuario":[
+    "producto":[
 
-[
-  {
+        {
     "IdUser": "usu1",
     "Password": "usu1"
   },
@@ -10,13 +9,8 @@
     "IdUser": "usu2",
     "Password": "usu2"
   }
-
-]
-
     ]
 
 }
-
-
 
 
