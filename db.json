@@ -1,12 +1,11 @@
 [
-    {
-        "Id":1,
-        "Nombre":"diego",
-        "Contra":"123"
-    },
-    {
-        "Id":2,
-        "Nombre":"abel",
-        "Contra":"123"
-    }
+  {
+    "IdUser": "usu1",
+    "Password": "usu1"
+  },
+  {
+    "IdUser": "usu2",
+    "Password": "usu2"
+  }
+
 ]
